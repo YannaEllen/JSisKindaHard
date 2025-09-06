@@ -1,0 +1,2 @@
+# JSisKindaHard
+Photo Gallery Homework
